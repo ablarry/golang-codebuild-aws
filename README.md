@@ -1,2 +1,2 @@
-# golang-codebuild-aws
-AWS CodeBuild for golang project
+# golang-deployment-pipeline
+Pipeline AWS for go
