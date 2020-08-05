@@ -4,7 +4,7 @@ phases:
     runtime-versions:
       golang: 1.13
     commands:
-      - go get -u github.com/golang/lint/golint
+      - go get -u golang.org/x/lint/golint
 
   pre_build: 
     commands:
